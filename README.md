@@ -149,6 +149,6 @@ MIT
 
 ---
 
-*Built by Srija · Powered by Claude*
+*Built by Srija 
 
 *If ShellGenie saved you a trip to Stack Overflow, consider giving it a ⭐*
